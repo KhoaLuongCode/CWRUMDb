@@ -13,5 +13,5 @@ Connecting to the database through Java JDBC.
 
 ## Final Report
 
-For more detailed information about this project, please refer to my [final report](https://cuboid-aardvark-35e.notion.site/Khoa-Luong-CSDS-341-Individual-Project-Use-Cases-Report-8136892534944084a299bd9bbfed0dc6).
+More detailed information about this project: [final report](https://cuboid-aardvark-35e.notion.site/Khoa-Luong-CSDS-341-Individual-Project-Use-Cases-Report-8136892534944084a299bd9bbfed0dc6).
 
